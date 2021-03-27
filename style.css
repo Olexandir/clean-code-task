@@ -57,11 +57,13 @@ body {
     padding: 0px;
 }
 
-.list__item, .title {
+.list__item,
+.title {
     list-style: none;
 }
 
-.task, .button{
+.task,
+.button{
     outline: none;
 }
 
@@ -133,7 +135,7 @@ body {
     vertical-align: middle;
 }
 
-.list__item >    .input-text {
+.list__item > .input-text {
     width: 226px;
 }
 
